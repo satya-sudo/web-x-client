@@ -1,0 +1,30 @@
+.pad-10 {
+    padding: 10px;
+}
+.mar-10 {
+    margin-left:-10px !important ;
+}
+
+.height-80 {
+    height: 93vh;
+    
+}
+.height-90 {
+    height: 80vh;
+    
+}
+.width-100 {
+    width: 100%;
+    
+}
+#sidebar {
+    font-size: 21px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+}
+#main-bar {
+    font-size: 21px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
