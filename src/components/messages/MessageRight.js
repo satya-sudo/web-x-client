@@ -5,7 +5,7 @@ const MessageLeft = (props) => {
         <div className="row">
             
             <div className="col s8 offset-s4">
-                <div className="card-panel bg black white-text">
+                <div className="card-panel  color-2 white-text">
                     {props.children}
                 </div>
             </div>

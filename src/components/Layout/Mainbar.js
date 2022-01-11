@@ -6,12 +6,7 @@ import MessageRight from '../messages/MessageRight';
 
 const Mainbar = (props) => {
     return (
-        <div className=" mar-10 height-90 pad-10 width-100" id="main-bar" >
-            <div>
-                <h1>8002715425</h1>
-                <p>Satyam Shree</p>
-            </div>
-            <hr />
+        <div className="height-90 width-100" id="main-bar" >
             <MessageLeft >
                 Hi asdjghaksjdhjkashd
             </MessageLeft>
@@ -28,6 +23,11 @@ const Mainbar = (props) => {
                 asdfhlasjkdfhl  asdlfkhjl 
             </MessageRight>
             <MessageLeft >
+                Hi asdjghaksjdhjkashd
+            </MessageLeft>
+            <MessageLeft >
+                Hi asdjghaksjdhjkashd
+            </MessageLeft> <MessageLeft >
                 Hi asdjghaksjdhjkashd
             </MessageLeft>
 

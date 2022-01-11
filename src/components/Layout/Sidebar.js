@@ -3,7 +3,7 @@ import './Styles/sidebar.css'
 
 const Sidebar = (props) => {
     return (
-        <div className="pad-10 mar-10 height-80" id="sidebar">
+        <div className="pad-10 mar-10 height-100 color-2" id="sidebar">
             <div className="row">
                 <div className="col-s12">
                     {props.children}

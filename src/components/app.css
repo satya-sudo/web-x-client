@@ -1,0 +1,16 @@
+.color-1 {
+    background: #93E4C1 !important;
+}
+.color-2 {
+    background: #3BAEA0 !important;
+}
+.color-3 {
+    background: #118A7E !important;
+}
+.pad-top-10{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.row{
+    padding-bottom: 0px !important;
+}
